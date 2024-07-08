@@ -6,6 +6,6 @@
 > - #### Microsoft Identity with SQLite
 > - #### Light/Dark mode
 > - #### Custom themes
-> - #### Current Theme and Dark/Ligth mode preservation - Local storage
+> - #### Current Theme and Dark/Ligth mode persistence - Local storage
 > - #### Report
 > 
