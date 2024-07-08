@@ -11,7 +11,6 @@
         <MudToggleIconButton @bind-Toggled="@IsDark"
                              Icon="@Icons.Material.Filled.BrightnessHigh" Color="@Color.Warning" title=@(IsDark ? "On" : "Off")
                              ToggledIcon="@Icons.Material.Filled.BrightnessLow" ToggledColor="@Color.Success" />
-        @* <span> @(IsDark ? "Dark" : "Light")</span> *@
     </MudAppBar>
     <MudDrawer @bind-Open="_drawerOpen" ClipMode="DrawerClipMode.Always" Elevation="2">
         <NavMenu />
