@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MudBlazorWebAppStartUp", "MudBlazorWebAppStartUp\MudBlazorWebAppStartUp\MudBlazorWebAppStartUp.csproj", "{8450F215-6430-443E-811C-F0338A588B8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MudBlazorWebAppStartUp", "MudBlazorWebAppStartUp\MudBlazorWebAppStartUp\MudBlazorWebAppStartUp.csproj", "{8450F215-6430-443E-811C-F0338A588B8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MudBlazorWebAppStartUp.Client", "MudBlazorWebAppStartUp\MudBlazorWebAppStartUp.Client\MudBlazorWebAppStartUp.Client.csproj", "{7B26AA68-5FAB-454E-ACAC-5492463C1CE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MudBlazorWebAppStartUp.Client", "MudBlazorWebAppStartUp\MudBlazorWebAppStartUp.Client\MudBlazorWebAppStartUp.Client.csproj", "{7B26AA68-5FAB-454E-ACAC-5492463C1CE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FD93787E-044A-4B9A-902F-F44DBD6E67A6}"
+	ProjectSection(SolutionItems) = preProject
+		FEATURES.md = FEATURES.md
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
